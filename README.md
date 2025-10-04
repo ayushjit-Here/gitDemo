@@ -10,3 +10,5 @@ after doing this files wont show up in git up for that i have tp pull them
 
 for pushing use:-
 git push origin main
+# here "git push" is the cmd, 
+# i have named my repo "origin", and the branch is "main"
